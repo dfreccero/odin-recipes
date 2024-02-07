@@ -1,0 +1,22 @@
+#title {
+    color: black;
+    background-color: rgb(25, 192, 25);
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.subsection {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
